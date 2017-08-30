@@ -1,10 +1,10 @@
-# code-master5
+# codebase - code-master5
 print("This program implements Vignere Cipher.")
 print("Select option:")
 print("1. Encrypt a message")
 print("2. Decrypt a message")
 print("Enter 1 or 2:")
-option = int(input())
+option = int(raw_input())
 
 def encryption_function(key, val):
     if (val == ' '):
@@ -20,10 +20,10 @@ def decryption_function(key, val):
 
 if (option == 1):
     print("Enter a message to encrypt (a-z only):")
-    message = input()
+    message = raw_input()
     message = list(message)
     print("Enter a keyword to encrypt (a-z only):")
-    key = input()
+    key = raw_input()
     key = list(key)
     encrypted_message = []
     for i in range(0, len(message)):
@@ -33,10 +33,10 @@ if (option == 1):
 
 elif (option == 2):
     print("Enter a message to decrypt (a-z only):")
-    encrypted_message = input()
+    encrypted_message = raw_input()
     encrypted_message = list(encrypted_message)
     print("Enter a key to decrypt (integer only):")
-    key = input()
+    key = raw_input()
     key = list(key)
     message = []
     for i in range(0, len(encrypted_message)):
