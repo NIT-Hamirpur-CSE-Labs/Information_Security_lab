@@ -1,4 +1,4 @@
-# code-master5
+# codebase - code-master5
 print("This program implements Caesar Cipher.")
 print("Select option:")
 print("1. Encrypt a message")
@@ -18,7 +18,7 @@ def decryption_function(key, val):
 
 if (option == 1):
     print("Enter a message to encrypt (a-z only):")
-    message = input()
+    message = raw_input()
     print("Enter a key to encrypt (integer only):")
     key = int(input())
     message = list(message)
@@ -30,7 +30,7 @@ if (option == 1):
 
 elif (option == 2):
     print("Enter a message to decrypt (a-z only):")
-    encrypted_message = input()
+    encrypted_message = raw_input()
     print("Enter a key to decrypt (integer only):")
     key = int(input())
     encrypted_message = list(encrypted_message)
