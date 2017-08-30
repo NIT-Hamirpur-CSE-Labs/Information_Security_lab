@@ -6,22 +6,22 @@ Information Security lab - 7th semester
 2. Install wireshark for Linux or windows.
 3. Open the website, "www.cert-in.org.in" 
 
-       (i) write the procedure to report an incident.
-       (ii)  write the procedure to report about the vulnerabilities.
-       (iii) Procedure to secure your PC.
-       (iv) List down various security realated tools and websites with proper explination. Alo install these tools on your system.
+       1. write the procedure to report an incident.
+       2.  write the procedure to report about the vulnerabilities.
+       3. Procedure to secure your PC.
+       4. List down various security realated tools and websites with proper explination. Alo install these tools on your system.
 
 4. Open the website, "http://pgportal.gov.in/" and write the procedure to file the public grievance.
 
 5. **Experiment** - Select any browser and try to secure your browser by following settings:
 
-       (i) trusted sited/blocked sites etc.
-       (ii) by enabling or disabling the cookies.
-       (iii) use of pop up blocker
-       (iv) by enabling or disabling scripts
-       (v) by enabling or disabling scripts
-       (vi) browsing history
-       (vii) saving passwords/master password
+       1. trusted sited/blocked sites etc.
+       2. by enabling or disabling the cookies.
+       3. use of pop up blocker
+       4. by enabling or disabling scripts
+       5. by enabling or disabling scripts
+       6. browsing history
+       7. saving passwords/master password
        
 ## Lab 2 -
 1. Write a program to demonstrate Caeser Cipher Cryptosystem.
