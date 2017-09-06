@@ -39,7 +39,7 @@ def isprime(n,k):
     for i in range(0,k):
         if(millertest(d,n) == False):
             return False
-        return False
+        #return False
 
     return True
 
