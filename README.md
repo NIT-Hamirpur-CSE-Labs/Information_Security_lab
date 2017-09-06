@@ -1,4 +1,4 @@
-# Information_security_lab
+# Information Security Lab
 Information Security lab - 7th semester
 
 ## Lab 1 -
@@ -34,3 +34,7 @@ Information Security lab - 7th semester
 3. Write a program to find Polynomial GCD between two polynomial a(x) and b(x) by using Euclid's Algorithm. 
 4. Write a program to find inverse of a number within Galois Field (GF) with the help of extended Euclidean Algorithm,
    e.g. Inverse of 550 in GF(1759)
+
+## Lab 4 -
+1. Write a program to Implement the Rabin-Miller Primality Test to Check if a Given Number is Prime or not.
+2. Write a program to Implement the AKS Test to Check if a Given Number is Prime or not.
