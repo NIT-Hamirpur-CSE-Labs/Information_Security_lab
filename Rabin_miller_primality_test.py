@@ -45,7 +45,9 @@ def isprime(n,k):
 
 #main program
 k = 4   #no. of iterations
-print"All prime no.'s b/w 0 - 100"
-for n in range(1,100):
+print"Enter 2 numbers to find the primes in b/w"
+a,b = map(int,raw_input().split())
+print"Prime no.'s b/w them are :"
+for n in range(a,b):
     if(isprime(n,k)):
         print n
