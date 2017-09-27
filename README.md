@@ -6,8 +6,8 @@ Information Security lab - 7th semester
 2. Install wireshark for Linux or windows.
 3. Open the website, "www.cert-in.org.in" 
 
-       1. write the procedure to report an incident.
-       2.  write the procedure to report about the vulnerabilities.
+       1. Write the procedure to report an incident.
+       2. Write the procedure to report about the vulnerabilities.
        3. Procedure to secure your PC.
        4. List down various security realated tools and websites with proper explination. Alo install these tools on your system.
 
@@ -41,4 +41,4 @@ Information Security lab - 7th semester
 
 ## Lab 5 -
 1. Write a program to Implement the DES cryptosystem.
-2.  Write a program to Implement the RSA cryptosystem.
+2. Write a program to Implement the RSA cryptosystem.
