@@ -38,3 +38,7 @@ Information Security lab - 7th semester
 ## Lab 4 -
 1. Write a program to Implement the Rabin-Miller Primality Test to Check if a Given Number is Prime or not.
 2. Write a program to Implement the AKS Test to Check if a Given Number is Prime or not.
+
+## Lab 5 -
+1. Write a program to Implement the DES cryptosystem.
+2.  Write a program to Implement the RSA cryptosystem.
