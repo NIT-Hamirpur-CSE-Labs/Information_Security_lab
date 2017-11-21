@@ -42,3 +42,9 @@ Information Security lab - 7th semester
 ## Lab 5 -
 1. Write a program to Implement the DES cryptosystem.
 2. Write a program to Implement the RSA cryptosystem.
+3. Write a program to demonstrate Diffie Hellman key exchange algorithm.
+
+## Lab 6 -
+1. Write a program to demonstrate MD5 (message digest).
+2. Write a program to demonstrate SHA (Secure Hash Algorithm).
+3. Write a program to demonstrate HMAC (hash message authentication code ).
